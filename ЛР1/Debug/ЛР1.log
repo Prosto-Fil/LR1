@@ -1,0 +1,5 @@
+﻿  ЛР1.cpp
+C:\Users\User\source\repos\ЛР1\ЛР1\ЛР1.cpp(159,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\ЛР1\ЛР1\ЛР1.cpp(166,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\ЛР1\ЛР1\ЛР1.cpp(132): warning C4715: String::operator==: значение возвращается не при всех путях выполнения
+  ЛР1.vcxproj -> C:\Users\User\source\repos\ЛР1\Debug\ЛР1.exe
